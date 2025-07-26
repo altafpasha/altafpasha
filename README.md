@@ -1,103 +1,72 @@
-<!-- Picture with animation -->
+<!-- Profile Animation -->
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="Profile Animation">
 </p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/DarkMechanic.png" alt="Your Image Badge" />
 
-<!-- Title -->
-<h1 align="center">About Me</h1>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/DarkMechanic.png" alt="TryHackMe Badge">
+</p>
 
+<h1 align="center">Hey, I'm Altaf — <i>Dark Mechanic</i> 🛡️</h1>
 
-👨‍💻 **Threat Hunter & SOC Warrior**  
-🔍 Specializing in **Cyber Threat Intelligence (CTI)** and **SIEM** solutions to combat evolving cyber threats.  
-
-⚔️ **Cyber Arsenal**:  
-- **Burp Suite Pro**  
-- **Wireshark**  
-- **Kali Linux**  
-
-☁️ **Cloud Guardian**:  
-Proficient in **AWS** and **Oracle Cloud** for secure and scalable solutions.  
-
-🛠️ **DevSecOps Craftsman**:  
-Blending development, security, and operations for robust CI/CD pipelines.  
-
-🎥 **Content Creator**:  
-Sharing cybersecurity knowledge as a **YouTuber**.  
-
-🐞 **Bug Bounty Hunter**:  
-Passionate about uncovering vulnerabilities and strengthening systems.
-
-💡 Let's collaborate and secure the digital world together!
-
-
-
-
-
-
-
-<img src="./rainbow-superthin.gif">
-
-<!-- Socials -->
-<h2>🌐 Socials:</h2>
-
-  <a href="https://discord.gg/https://discord.gg/cWXb2gaC"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-
-  <a href="https://youtube.com/@dark_mechanic"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-  <a href="https://imaltaf.site"><img src="https://img.shields.io/badge/My%20webpage%20-Imaltaf.site-green" alt="Webpage"></a>
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-# cybersecurity skills
-
-[![BurpSuite](https://img.shields.io/badge/BurpSuite_Pro-Professional-red?style=for-the-badge&logo=burpsuite)](https://portswigger.net/burp)
-[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Proxy-orange?style=for-the-badge&logo=owasp)](https://www.zaproxy.org/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Distribution-blue?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
-[![Parrot OS](https://img.shields.io/badge/Parrot_OS-Distribution-yellow?style=for-the-badge&logo=linux)](https://www.parrotsec.org/)
-[![Postman](https://img.shields.io/badge/Postman-Client-lightgrey?style=for-the-badge&logo=postman)](https://www.postman.com/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-Analyzer-green?style=for-the-badge&logo=wireshark)](https://www.wireshark.org/)
-
-
-<img src="./rainbow-superthin.gif">
-
-# Support Me ☕
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=for-the-badge)](https://www.buymeacoffee.com/imaltaf)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imaltaf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imaltaf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaltaf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Dark_Mechanic)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+<p align="center">
+  <strong>Cybersecurity Researcher • Bug Bounty Hunter • DevSecOps Enthusiast</strong>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imaltaf&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Who Am I?
+
+- 🧠 Threat Hunter & CTI Analyst  
+- ⚔️ Bug Bounty Hunter (Web, Mobile, Cloud)  
+- 🔒 Building tools like [QRGuard](https://app.qrguard.xyz) to secure the digital world  
+- 📹 Cybersecurity YouTuber: [@dark_mechanic](https://youtube.com/@codesec-me)  
+- 🛠️ Playing with SIEM, Firewalls, Burp Suite, Wireshark  
+- ☁️ Securing AWS, Oracle Cloud & Cloudflare setups  
+- 🧰 Automating stuff using Bash, Python, Docker, and more  
+
+---
+
+### 🧰 Tools & Stack
+
+**Security**
+![BurpSuite](https://img.shields.io/badge/BurpSuite-Professional-red?style=for-the-badge&logo=burpsuite)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-blue?style=for-the-badge&logo=wireshark)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-OS-7B42BC?style=for-the-badge&logo=kali-linux)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-orange?style=for-the-badge&logo=postman)
+
+**Cloud / Infra**
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Cloud-red?style=for-the-badge&logo=oracle)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN-orange?style=for-the-badge&logo=cloudflare)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-ReverseProxy-green?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![PHP](https://img.shields.io/badge/PHP-8.2-purple?style=for-the-badge&logo=php)
+
+---
+
+### 🌐 Connect With Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codesec-me)
+[![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cWXb2gaC)
+[![Website](https://img.shields.io/badge/Portfolio-Imaltaf.site-green?style=for-the-badge)](https://altaf.codesec.me)
+
+---
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=imaltaf&icon=5&color=12" alt="Profile Visits">
+  </a>
+</p>
+
+<!-- Made with ❤️ by Dark Mechanic -->
