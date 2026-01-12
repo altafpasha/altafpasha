@@ -1,34 +1,36 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🟢 DARK MECHANIC - CYBER PROFILE 🟢                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════════╝ -->
-
 <!-- Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+INITIALIZING+DARK+MECHANIC+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E+Founder+of+CodeSec+%7C+Security+Engineer+%7C+Builder+_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+INITIALIZING+DARK+MECHANIC+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E+Founder+of+CodeSec+%7C+Security+Engineer+%7C+Builder+_" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Matrix Header Banner -->
+<br/>
+
+<!-- Digital Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:0d1117,100:39FF14&text=ALTAF%20PASHA&fontColor=FFFFFF&fontSize=60&fontAlignY=35&desc=%E2%96%88%20DARK%20MECHANIC%20%E2%96%88%20Founder%20of%20CodeSec%20%E2%96%88%20Security%20Engineer%20%E2%96%88&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:0d1117&text=ALTAF%20PASHA&fontColor=39FF14&fontSize=65&fontAlign=50&fontAlignY=45&stroke=39FF14&strokeWidth=2&desc=FOUNDER%20%40%20CODESEC&descSize=20&descAlignY=75&descAlign=50" width="100%"/>
 </p>
 
-<!-- Terminal Line -->
+<br/>
+
+<!-- Cyber Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<!-- Visitor Counter & Status -->
+<br/>
+
+<!-- Statistics & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=altafpasha&label=%E2%96%88%20PROFILE%20VIEWS&color=39FF14&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-0d1117?style=for-the-badge&labelColor=39FF14&logo=statuspage&logoColor=white" alt="Status"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOUNDER-CODESEC-0d1117?style=for-the-badge&labelColor=39FF14&logo=shield&logoColor=white" alt="CodeSec"/>
-  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=altafpasha&label=PROFILE%20VIEWS&color=0d1117&style=flat-square&labelColor=00D4FF" alt="Profile Views"/>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codesec.me">
-    <img src="https://img.shields.io/badge/🌐-codesec.me-0d1117?style=for-the-badge&labelColor=39FF14" alt="Website"/>
+    <img src="https://img.shields.io/badge/FOUNDER-CODESEC-0d1117?style=flat-square&labelColor=B026FF&logo=shield&logoColor=0d1117" alt="CodeSec"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codesec.me">
+    <img src="https://img.shields.io/badge/🌐-codesec.me-0d1117?style=flat-square&labelColor=FFD700" alt="Website"/>
   </a>
 </p>
 
