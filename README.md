@@ -375,23 +375,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF41,50:0d1117,100:000000&section=footer" width="100%"/>
 </p>
 
-<!-- ASCII Art Footer -->
-<p align="center">
-  <code>
-    ██████╗  █████╗ ██████╗ ██╗  ██╗    ███╗   ███╗███████╗ ██████╗██╗  ██╗
-    ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝    ████╗ ████║██╔════╝██╔════╝██║  ██║
-    ██║  ██║███████║██████╔╝█████╔╝     ██╔████╔██║█████╗  ██║     ███████║
-    ██║  ██║██╔══██║██╔══██╗██╔═██╗     ██║╚██╔╝██║██╔══╝  ██║     ██╔══██║
-    ██████╔╝██║  ██║██║  ██║██║  ██╗    ██║ ╚═╝ ██║███████╗╚██████╗██║  ██║
-    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝
-  </code>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-00FF41?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Built%20with-Passion-00FF41?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Secured%20by-Dark%20Mechanic-00FF41?style=flat-square&labelColor=0d1117" />
-</p>
 
 <!-- Hidden Easter Egg -->
 <!-- 
