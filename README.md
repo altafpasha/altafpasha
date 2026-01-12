@@ -20,7 +20,7 @@
 - 🧠 Threat Hunter & CTI Analyst  
 - ⚔️ Bug Bounty Hunter (Web, Mobile, Cloud)  
 - 🔒 Building tools like [QRGuard](https://app.qrguard.xyz) to secure the digital world  
-- 📹 Cybersecurity YouTuber: [@dark_mechanic](https://youtube.com/@codesec-me)  
+- 📹 Cybersecurity YouTuber: [@codesec-me](https://youtube.com/@codesec-me)  
 - 🛠️ Playing with SIEM, Firewalls, Burp Suite, Wireshark  
 - ☁️ Securing AWS, Oracle Cloud & Cloudflare setups  
 - 🧰 Automating stuff using Bash, Python, Docker, and more  
