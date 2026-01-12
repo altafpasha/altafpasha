@@ -80,7 +80,7 @@
 <!-- TryHackMe Badge -->
 <p align="center">
   <a href="https://tryhackme.com/p/DarkMechanic">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/DarkMechanic.png" alt="TryHackMe Badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/DarkMechanic.png" alt="TryHackMe"/>
   </a>
 </p>
 
@@ -319,7 +319,7 @@
 </a>
 </td>
 <td align="center" width="140">
-<a href="https://discord.gg/cWXb2gaC">
+<a href="https://discord.gg/VuAfT275">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 </td>
