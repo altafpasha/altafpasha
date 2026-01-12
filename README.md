@@ -57,7 +57,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codesec-me)
 [![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cWXb2gaC)
-[![Website](https://img.shields.io/badge/Portfolio-Imaltaf.site-green?style=for-the-badge)](https://altaf.codesec.me)
+
 
 ---
 
