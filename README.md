@@ -1,15 +1,8 @@
-<!-- Animated Typing Header -->
+<!-- Terminal Header Design -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+INITIALIZING+DARK+MECHANIC+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E+Founder+of+CodeSec+%7C+Security+Engineer+%7C+Builder+_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=root%40darkmechanic%3A~%23+init+protocol;ALTAF+PASHA;----------------------------------------;eJPTv2+%7C+BTJA+%7C+CNSP+%7C+SaaS+Developer;Cybersecurity+%7C+Youtuber+%7C+DevSecOps;Freelancer+%7C+Founder+of+CodeSec" alt="Terminal Header" />
   </a>
-</p>
-
-<br/>
-
-<!-- Digital Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:0d1117&text=ALTAF%20PASHA&fontColor=39FF14&fontSize=65&fontAlign=50&fontAlignY=45&stroke=39FF14&strokeWidth=2&desc=FOUNDER%20%40%20CODESEC&descSize=20&descAlignY=75&descAlign=50" width="100%"/>
 </p>
 
 <br/>
