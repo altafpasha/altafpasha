@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24&text=CodeSec&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Security%20Engineering%20%2B%20AI%20Automation&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24&text=Altaf%20Pasha&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Security%20Engineering%20%2B%20AI%20Automation&descAlignY=62&descSize=16" width="100%"/>
 
 <br>
 
-<a href="https://codesec.me">
+<a href="https://altafpasha.in">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1500&color=A855F7&center=true&vCenter=true&width=560&lines=Cybersecurity+Engineer;DevSecOps+%26+Cloud+Security;Founder+%40+CodeSec;Bug+Bounty+Hunter+%40darkmechanic" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-[![Website](https://img.shields.io/badge/codesec.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codesec.me)
+[![Website](https://img.shields.io/badge/altafpasha.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://altafpasha.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/altaf-pasha)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/altafpasha)
 [![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@codesec-me)
@@ -178,7 +178,7 @@ AI trip-planning app — turns travel reels and photos into shared itineraries w
 
 <div align="center">
 
-**[codesec.me](https://codesec.me)** · **[hi@altafpasha.in](mailto:hi@altafpasha.in)**
+**[altafpasha.in](https://altafpasha.in)** · **[hi@altafpasha.in](mailto:hi@altafpasha.in)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24&section=footer" width="100%"/>
 
