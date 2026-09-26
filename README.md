@@ -159,21 +159,6 @@ AI trip-planning app — turns travel reels and photos into shared itineraries w
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=altafpasha&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=C9C9C9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altafpasha&layout=compact&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=C9C9C9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
 <br>
 
 <div align="center">
