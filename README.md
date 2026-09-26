@@ -12,7 +12,7 @@
 
 [![Website](https://img.shields.io/badge/altafpasha.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://altafpasha.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/altaf-pasha)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/altafpasha)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/altafpasha_h )
 [![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@codesec-me)
 [![HackerOne](https://img.shields.io/badge/@darkmechanic-000000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 
